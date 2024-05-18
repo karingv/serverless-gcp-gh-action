@@ -1,4 +1,4 @@
-service: serverless-calculate-bmi-karin
+service: serverless-calculate-bmi-karing-2
 
 provider:
   name: google
